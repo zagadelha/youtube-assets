@@ -1,0 +1,643 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 11 0 R /F4 48 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses)
+>> /Border [ 0 0 0 ] /Rect [ 48.51969 342.2331 204.4227 355.4331 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/Annots [ 4 0 R ] /Contents 71 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 70 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/claude-101)
+>> /Border [ 0 0 0 ] /Rect [ 76.19685 685.3469 120.5489 696.3469 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/ai-fluency-framework-foundations)
+>> /Border [ 0 0 0 ] /Rect [ 76.19685 655.5169 177.0221 665.5969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/ai-fluency-framework-foundations)
+>> /Border [ 0 0 0 ] /Rect [ 76.19685 644.5169 126.5969 654.5969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/introduction-to-agent-skills)
+>> /Border [ 0 0 0 ] /Rect [ 76.19685 624.1469 183.5489 635.1469 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/ai-capabilities-and-limitations)
+>> /Border [ 0 0 0 ] /Rect [ 76.19685 594.9469 198.4925 605.9469 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Annots [ 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ] /Contents 72 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 70 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/claude-101)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 669.0815 92.64769 678.6815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/claude-code-101)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 651.4815 113.7605 661.0815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/introduction-to-claude-cowork)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 624.2815 163.5709 633.8815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/claude-platform-101)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 597.0815 125.5861 606.6815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/claude-code-in-action)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 546.8815 133.5965 556.4815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/introduction-to-model-context-protocol)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 519.6815 193.5453 529.2815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/model-context-protocol-advanced-topics)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 492.4815 178.7785 502.0815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/model-context-protocol-advanced-topics)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 482.8815 77.01449 492.4815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/introduction-to-subagents)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 465.2815 146.2581 474.8815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/ai-native-sdlc-playbook)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 438.0815 159.7861 447.6815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/introduction-to-agent-skills)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 410.8815 149.6477 420.4815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/deploying-claude-enterprise-with-confidence)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 383.6815 173.7245 393.2815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/deploying-claude-enterprise-with-confidence)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 374.0815 93.90169 383.6815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/ai-fluency-framework-foundations)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 332.9115 191.4553 342.0315 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/ai-capabilities-and-limitations)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 306.2815 163.1681 315.8815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/building-effective-human-agent-teams)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 279.0815 194.4117 288.6815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/building-effective-human-agent-teams)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 269.4815 74.05049 279.0815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/ai-fluency-for-builders)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 228.8815 96.44009 238.4815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/ai-fluency-for-creative-work)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 211.2815 115.4553 220.8815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/ai-fluency-for-educators)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 184.0815 103.1965 193.6815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/ai-fluency-for-k-12-educators)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 166.4815 128.1169 176.0815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/ai-fluency-for-pk-12-train-the-trainer)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 148.8815 151.7681 158.4815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/teaching-ai-fluency)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 121.6815 186.3937 131.2815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/ai-fluency-for-nonprofits)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 94.4815 104.4505 104.0815 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/Annots [ 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 
+  23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 
+  33 0 R 34 0 R 35 0 R 36 0 R ] /Contents 73 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 70 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/ai-fluency-for-small-businesses)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 763.4201 129.8193 773.0201 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/ai-fluency-for-students)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 736.2201 98.54529 745.8201 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/building-with-the-claude-api)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 686.0201 155.9785 695.6201 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/claude-with-amazon-bedrock)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 658.8201 159.3605 668.4201 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/claude-with-google-cloud-s-vertex-ai)
+>> /Border [ 0 0 0 ] /Rect [ 52.51969 631.6201 188.2025 641.2201 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/Annots [ 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R ] /Contents 74 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 70 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/building-with-the-claude-api)
+>> /Border [ 0 0 0 ] /Rect [ 53.51969 660.2469 156.9785 669.8469 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/claude-with-amazon-bedrock)
+>> /Border [ 0 0 0 ] /Rect [ 53.51969 640.6469 160.3605 650.2469 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/claude-with-google-cloud-s-vertex-ai)
+>> /Border [ 0 0 0 ] /Rect [ 53.51969 621.0469 189.2025 630.6469 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/Annots [ 44 0 R 45 0 R 46 0 R ] /Contents 75 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 70 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+48 0 obj
+<<
+/BaseFont /Symbol /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/use-cases)
+>> /Border [ 0 0 0 ] /Rect [ 54.36009 199.9518 195.4783 211.1118 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://claude.com/resources/use-cases)
+>> /Border [ 0 0 0 ] /Rect [ 54.36009 186.9518 200.1283 198.1118 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/Annots [ 49 0 R 50 0 R ] /Contents 76 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 70 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/claude-101)
+>> /Border [ 0 0 0 ] /Rect [ 81.86614 529.313 121.9941 538.913 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/ai-fluency-framework-foundations)
+>> /Border [ 0 0 0 ] /Rect [ 81.86614 508.8375 220.8017 517.9575 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/ai-capabilities-and-limitations)
+>> /Border [ 0 0 0 ] /Rect [ 81.86614 489.502 192.5145 499.102 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/introduction-to-agent-skills)
+>> /Border [ 0 0 0 ] /Rect [ 81.86614 469.5965 178.9941 479.1965 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/introduction-to-claude-cowork)
+>> /Border [ 0 0 0 ] /Rect [ 81.86614 429.6909 192.9173 439.2909 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/ai-fluency-for-builders)
+>> /Border [ 0 0 0 ] /Rect [ 81.86614 409.7854 246.1705 419.3854 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/deploying-claude-enterprise-with-confidence)
+>> /Border [ 0 0 0 ] /Rect [ 81.86614 389.8799 238.9657 399.4799 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/claude-code-101)
+>> /Border [ 0 0 0 ] /Rect [ 81.86614 349.9744 143.1069 359.5744 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/claude-code-in-action)
+>> /Border [ 0 0 0 ] /Rect [ 81.86614 330.0689 162.9429 339.6689 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/ai-native-sdlc-playbook)
+>> /Border [ 0 0 0 ] /Rect [ 81.86614 310.1634 189.1325 319.7634 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/introduction-to-subagents)
+>> /Border [ 0 0 0 ] /Rect [ 81.86614 290.2579 175.6045 299.8579 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/claude-platform-101)
+>> /Border [ 0 0 0 ] /Rect [ 81.86614 270.3524 154.9325 279.9524 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/introduction-to-model-context-protocol)
+>> /Border [ 0 0 0 ] /Rect [ 81.86614 250.4469 222.8917 260.0469 ] /Subtype /Link /Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/model-context-protocol-advanced-topics)
+>> /Border [ 0 0 0 ] /Rect [ 81.86614 230.5413 234.7325 240.1413 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academy.claude.com/courses/building-with-the-claude-api)
+>> /Border [ 0 0 0 ] /Rect [ 81.86614 210.6358 238.5553 220.2358 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/Annots [ 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 
+  62 0 R 63 0 R 64 0 R 65 0 R 66 0 R ] /Contents 77 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 70 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+68 0 obj
+<<
+/PageMode /UseNone /Pages 70 0 R /Type /Catalog
+>>
+endobj
+69 0 obj
+<<
+/Author (Claude Academy \267 guia de estudo) /CreationDate (D:20260910155030+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260910155030+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (Os 26 cursos da Claude Academy: o que fazer, o que pular e em que ordem) /Title (Mapa dos cursos gratuitos do Claude \(2026\)) /Trapped /False
+>>
+endobj
+70 0 obj
+<<
+/Count 7 /Kids [ 5 0 R 12 0 R 37 0 R 43 0 R 47 0 R 51 0 R 67 0 R ] /Type /Pages
+>>
+endobj
+71 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1205
+>>
+stream
+Gau1-968iG&BF89'RT%0aZ'PBD]G>#agBNWl\)hEJl%]L<YQfW8u=cDZZcG-e>os>9KF("VQ_1lqo:mNOO4<^G>SITb2MG$"QYZj!@<qkrsH72A3FAHB#8Oq:0YsPNRDAXR`EN*X]A1ODNk>UO]h!$1aUA<:Dj%B[/_N^=4.-06?+CMKf1a2)S'3-,g0"%ol\Fgp-lm)bZM2UGYcPno1iJdctNa=81%/qX!@3Sqt]n`>E_`?-mp.@8Mq!F-.PE5D#3kCce!,W$b,Tr%l\_%^pO37EW$=:59PFs7D0doOG9Gs1J4X*)[t:F/2kA$FDMO\,UA*^/OX!7PDGMo9>1]&"K&s0Q%rLUU"D8?BG4_5Rm&`ZZ`Q,B1CN\uiO?/a1:tu)Tb)++SUtH-3+5l@ZG3&XDM1F!^AtMc7kgo7N_"If7Lf\B9H<(8P9Y9',ee@5aa2,&Ti_-C9O[(-0#;\hB4_#X*=rC^LXj7[r&cgDLG5ohatJ:(b1X5m%mh32'-XNm?>_qa@9"%Di-SV4Lcd9T<E$=If%UgpY\Z8C[b=&$+WCPZ,2X]Q\c99XY+VlF;eQI#MZ38`C#A=QdE`j?j35E&<ii_;hjjPa/t\H*E&TNK:/6^gc7$4L87`$Yon:4!1APK<1#BV"j^_)^__Gj\7h5uP5J"TP.r"BR[.'W;Y^;#q,YQTlqB\YDI,dSRlITh0o%S2PpGpGrjl7e@Ugcq7aqNKA(8Ij1oYp@ERD9Np9IYbs$O4bW`SbjNPjUaAK0(EU*&.Acddh)p3M&>X&_8^S%0&%-e05A+H1qt_"3C#f)$oo%s/8&I[ZMH&JF&WBi9Epq]i99g)?\/:j>LWjSYI7Y&Jfg_BoIu>)"qU_R9&`r#`\G="nenai'"(h];cp?1m><.SiSE\`O8L\H[Qnj"ttbe'A/HdrqBeb#_gV?][*:E-U*X4cG'U^qHHouJQ#]7N!sL@jUcj'r8>Z1J\5ot=4!9+!0*MQjU`W\k#c>sRF^Q6pLD0A-q3YVE4#9F/d;F#5h5BZY,nJ4@Mfaiq]_&\Bs(nkVq8LRoKU9/I[m)KV*Wqp3"V8l,B&WXpo`Y_U2,QRW*^<k;Q)]kds0j*&f$:YL8di*k98]";L[2.)nUC<='1dUVM*iFhEVn:Yc*k;dPY]8'eriUQW;5eofdG,1S:".7COFTe8;`Fl]4brmu,f/dr#PWIf\UtO=1~>endstream
+endobj
+72 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2690
+>>
+stream
+Gatm=968iI'#+6EFOaE/Br;p\!PX!8d`D-JVik/ejZ3,<PE:G+8_>/bCi\1c^(#Ug-q1N)f]A8f4M0#9n9$Z\^r8NIrhfq8*t.lBOoV2[=9A"5*u5sW@WCs\il$[HOq=-CUlcbW'2*3O2ubmX!r-q:Jkqp;lOr\R-OsB7JHCFR3`-Fsl>jBtBr+4$8DMC-Hon+`i?QcHrU<+ToDm<Sg.S-Rj!ML4^nQA$-hbV(P80mQWpm8kXDUFcDjc8]cC0^04Un1SI@@I#(Z0'MZNV^6D,)R=J&1+p/:Q&O%7CFXE!Y894hp`=Z4\Gc3Z.Po:"H?b[jjm&FhGdABPMD3-j\k[_f\F*^r[S]"Z4n>Y7$p;oD9hffPCoBk*jMs5@)Jc@"*M+dk>oH4-C,t%`qOj?u>5V+H@m7M&&g7P3mJ!M:jFpKjRp6cs$:..0`QWbF]]Ui/q*+A4L=nGlqo,7$>oRZrH%!=W/ZEj([H^d/YGbD,1Gs_i<&Q*pS^]c`9B!`F1"?HSct3\1=-RHmb"1d!MQJ6A._Ndo,=K-("da2Pn6Gm@83^RP%'Z^$8Yh"HC-]MH+L\YL3P5V"-hA![Q^PH'o#*T0ZC1"Up]%.9>rDAuD1k-BGghN<h;t3BK\,AP/9J#M)JRj)tT`5Ot8<!$'>.%#le-^E*MNQEQ]tKU#-gQl!.#_%&ctp)T_.7B+>dl1L5W@2`&=J5[[l3@oZtC%Yib$QHrK5FOR=mH5`L1&qJ*#rRRtdna6&%8:#sE')@?LLq(VSPD[NDE8gYk8Kglg`,O"bpfDNnb&e%.t(Zk0ibF,%WlE/=s?[U91UVC:&ZlY<A\a5.)NmpbB)#%0cZaVKW^NK_&IJ\D\U+L&Xak!^(*(ie0ORfbF)"7i6SHmO,Cbr\6_,oZ2E9J9Xal`3O'A)Z%pS^%*s,Fn\]7^1]'&VA,Ou<25/JUB>q]X.DYZuIGdi!FcQXl;,#%1emb0TYau7pnVH"FK3$T$%R"J]o[-jThPJR)V5F?q?Ud<oTW51.84^58I@20^a7YXL@,W'9*dEpjfp\bbo@+sO(8!,QPp;?^K!&7^[)U__Dis5X9P)>p=t3i%Q(iVOC.*bcmQED%-/9gDd?/=U1=sUqY"]e#J^MCWTka^"O0N<iK<03h.E2ZSJB70gnp[O6Y=<BmokM-i9PU7m>h=h3"t/fb3<3ri.Jkf8M.cS3.R$,dph><$oEm5B#+auP1Utqhr[-1QnB]s8?HT.h==n&d]o;b8E8pTm]mgIO6[ZTaj<kaTV#s<oK4s4Y$4MKqd34JUCR;_gr:;^(k;cm(Fc%hPWq_>7=&EC";[N[kV,#<)/linV3`P@i!M5ICh]jCdhL^SV6b]W5mas>Jn6F.0=foRi%%ZI#:r`S7rLrYm)X7D^hTF0_NIHSSYKC%jX@Y9U!@`r/O>pEMH5XH2pKm>8a2$<uh\3_h5me`fCF(Z8Kj(60/ObO/Do!o^eCB<.gnC#PF*Opc"+R_`0=U_C-9ATOGuHELn/h`XpPE/p.@]!??9B_:*'TLQke#m(Ish=%<TD@!Usu)0&AApQ8@LD!Rid_(C4ZAHPo4r`KrC'/=OP69DoJZ!>[6gA.-;D'?L(jRBi6f;i_leFT@s^sA61foBHpDPDN)UP-2&gs_6@?Z,gN5o3noStCc[Ns-`jDgLS\acH4WXi6Kk':qtfYJMf14OCarJ%o,6!5X-@5XK*HOtg)Y8TF;^Lf-?@!n;pdIlFD]B>b$Cc6dftf/gbkP]CX?b;[Ln(,:P[N$05S$?6"#hQg\\jrS[u`@`Jj6m?2Ktn4?3Zkr>(CUaaVldGiQcf'[A@D=1@pqlWqDp]*nE"iY,!M0.q.I!>]nBf.Z=[qBB[IcC=6B3m'>#TW&iN;^*L.7UmAlgL0OKmiuouJ`DpOB,c$gFZtPA@GBaT2le=/G1H\6]=S5FIV!sL6[[fM.>lN4ik!lcD\LID?73.mfBm$t>S;`;&A>]h_[ReK=4dD1:HrUd&k^p!*;IgTk!mR""X2,m?`2P/AetUScdu'c_)>D*--J##_)J>obhNJ@DiHNDMG,E'5$R=*0[UCgXt^aSg>#u-kg7Mk9#<`f&X\7*3+ImMCNQg[*T'Gr]oU%#M=6.B((<[m2DMLZeZEdu`Q>tXG[CBYWS&0e%sMX!D_r\PS$1OMf:?=,N0r6gIra4dfPs^)qqIMqJZl&ijnGh/0I6o3S`r5P#,>k>'`#7c_6aLBP.VPqUGSXIB0Y9+DXJ:l2fAmsHO;K`Dl</PgNPU,KBXb>[542qY>/rIaY<r7pfM[Q-Ob)3_c'h\n4&Tjk/U<i!e75c(b>o0MY$<0>*c@B62WhRAo`\2;\CBMD6RjADU1Pm@%O^n%oTht4Z*iDXbi]F9s=8-o3dm=U'-8%g0&>?I%&<h0@OaTb*6PIk)W!mR4)/+:"3sWf@pS;qcGO:FMH[YlOao[hE();[@oBu8Ed8dc>:JH2>9g0H0diK6)T@!N<.HqMgPD\/_uGEk^0g0.SpV1*0`/BJpm$fUPOrA?nZ^#%f9TAN2&gM62/@638F&m8MKs&pcPbr>VUrB`rPP9jc'IcPXd$dU8mRBJP9H0C^u[3(HUYckb$!<g,t#1%e%.S(d04Bh!k:ofI@^LQ(8te?/B[K3Uid;)1.QiCc@a)6IbQh"84.DHHV+VM)a>B[H$dq^Q.emi8\fcHROZ5rr\n*Y&+~>endstream
+endobj
+73 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 4191
+>>
+stream
+Gb!#`>BAQ-&q9SY^sa1/[94'RpW`4SFmE6OA^5D;0/*R_9IN4R.AuU;57<PU6-#]C$Ra?_,&p]FIK9*%/f#R8K].tBs%aF:]pka':L3#o1n>lCGC2517jld!^\=6X_/9l0-Or`/#Oi$i3(>jqpRD53h(+R_S,d(+nj4]6Ya;!d$3K3T6(l>?oPq(B&d]efZJkT''cdfK,4R*GHrSs\'AOA&Z9ipD-bc4GklOR3k`VYXY>De[/,6V-Bt_Z(pbq0r.&X*`6an>"]'kD'S[$.4,GWM7P=hC0o#4C<qAE"W(8s(=!=9a44?%\:lhTss<`%jkVgX(J;ip#TEYK2-Mm*Rp/UB5\_Dq1\SIl1d@Lho0P!!Y97\2=*lR>-)*#)IrfAu.7HL##6r9F4q3kDo45!PHA%EuQq+EV`+6.<X[$0%>fV^q,GhZ3.-!3R:rdNH'"&..+j2R)OnRcVBIh9_"3K`g[Lls^%PqA$Q40I".TEBI[[EJ=;#8G'R\Jp6,iqTAuF!2[?+7J8AL%^9J(XjDZ"$i!9!,3>b40LX<j(C!S06^?3G!Dgf9?85Dupq'pI8P=s)?($t62m%+^CmJaZMdc1:cL+gc<QHL8.qVpV_+o2(@LKC@Jt.$jK12gfi-Hh*dX5$q,`b"k*Ckp<4Z<omp[Sh--Z8UP6X%9>+g?_E5Dd5.6@o^&#hW362#hjI8c/])j<UmI8"b'Zi=bEDE;<TtOa'?n"dh:.k,4>$)8J'kc&M[gX^TmqNEaT\)jX/AlK4s)'cIuX6Y0WAn'JOS+<;=ff>1IMk5I4u''$]L38G]tE.jFa?iP'KI_GIO":$XA8c8;J+0S;jcij8e]cB=XU*p?)DPsDZMq="q#;5JYrVG,ta$B"1H>6m7_;HJ@fI1[O^ca+!hl@0'-L88Or!=kmVRKbq;.[5Ik@86"j7MhQMZ13`FG'RCs"7+H)DMXYi&\%Z?DiCR/fEd/!2?ua+n!=o;&d8Wm%glMUp)"1'5?F6rAlHNY\W_!0:I$URt\ZJ$]KT/n*=5`BU.ohki$[8#`F.E1%maHHJFS"(WZYs''!o*ru)sf*M4U=Ll&Vs"4oNEkc>j7<U2)GZ2%<.@<Jh)Ae6f&d#o2&7l)#]lYK$\U0L2WMc_T7nZWp?57/SC5IJB;aJXiThai_ODTiV#o!\H=k5;GseW:k\1#<dsK^NH3G?rVM(Yerj!YS\&*9JOTMO4ZG-0i0c6LS&Sb@ItljT6bB\Hut$!kcf-(gk^<Nq`r%?D!oElj<Wb!-YTdGia;;k-ckF>ZZ:R?epZCB16+sfda*[?D(KHr/UPR?@FW%RFZt,*Sr`QR6@UJ@0eE=4$tfk)9-iVp6[uuR"E.Z03p/[=M3?hNk>Kbcgh=.*5YJ](,RgVR_9lmM"V4Nb9b*Kl:]BgA&Ns:ZE7(YJej'6s0dF]f]tON(PY4KKDcgS3f@#Jf`W(7-`P#BVD3FN9ulTtKIZUb1R.HaXJ=,T;3XARJll&'>!6Is6k'e^fc-SWY%FaZh$!U"/Fqi8B==@fSY$nY>b^KO-g:EhlM/iUo])=tcrRR]K8cRERqsl2d%QDYYLBt9^#^Xg`n[t6dP]u8=R.!t8+Y:B_G)86!H12\g,,hnSZ#6=M1[9NH(0:5mT-Ehg?L(leaUg:pjuNN>dfRefsD%?-I7PSWc6,?l%6c'F,Xt-8\rA"$h`Hd$,S:#cjOM`%aBTPk!(`7/pY]?^-7bK)5oE(>=)_=&mDYW6piW\)%r*Ce'MVj693XjH,7oI@V>#f]iS9<<AUm^!RAO(JfF7*hABN_eIUT8OGd.87J\P59!`i&??l?@'K`"!(CB1V>(N?5`]`<CIc@PhFa^`K_nMJjp)?&_4jkNc1Y)"o^<G$u-2!jad[2%A\E5WTB[nYp'c)"jpsT&-m4:0Y.F@SDkSj,0"I#[l@B3qeKRriO7mKqVH%^KMls$No,b>[cosP9Fe`omFXpdjsKAWuLr7B&#di*=0[Q[ttm.'/rA%Su&RNqp\#"Ba-,92_H*0M]C_O`m/?pX3gW*R^k0Cis]<Usrq704h$R%Kf!>ESO:*^8(ohB[MWRFlSs&?G'D.###f<*K8\7O)kD>LaE(_mMBUVbA1?Z?g\58S_2%qKRC:,YBR_GFTTd.<YPm(F]flAC6o='GC-;*TE2'=feMp=o*Yh7VDUSQB2@$5biaLcUq@=n(i0($Fm9'cn[C[4L9t9jI[_KZWf(*7@HfbCD3q0'otJ,b[a^rN+=!<'rdodX?AcY<&.(>l:[H+-F$0ohpUIN"+&Y+AO\9_.l-Pp\HoWG55;@V\X[Fe=]KIP#m?N0am,Hu0EG[)#YXA+.j*M/?Oc^])1+36R]YQF<,hn^^WI]9<Eg/-#XokGZT.Ps*J45I1G@X.]Qi8TgW7>!Qn<CYPSNrK*;9SRC?;bF.YbZL[;sS"bg#;'N59&KJ;]dsX%&I0a]Yuc\0U6GDc`fB\uT\ob4i!;H+AuJ=UDpI'Y32p$k@R!#6AbJ/6QNumHfg,>9r-_[i7k:L_lh%ga"YKU"LX,]9B"jM\AVadHUJ)PKW3Xfmp`DG4@+<ojT<=`[dBm05+$ch]t#j0_6$@p?=MX>1*Qf9Bt_*k`i9.)&7_R+L:;"pjR%fB[o'#ZEUeoKbWNnp<m#ZS(B_/[rj[#GJ9`KllR1Nf]&:2]&AR/^uE?J#at\3PnRQO&PS#LZ950DZ-H7kd!<(@C1HC>D>8R<kn^CIAoUXLgmP8n`!pN!;-"E#B8;:#HW9.hWiA_G05+'JI>-c0ER<^t]ZM?UNXaRb9s[Vd0]Rhf.Jp_Pi2tg33Keg)>@mV(,bHIU3D3pljnI;W(?eT?rMGN+'[7u6PBX+*[m.RO4#aFQ0f:Y^SOK<Nj\'$&B/[$YmUg6-(sO0,IEWfC7DQDpRQk`oN`#L!BJXK>qnefXQmU?VM^.mU#t#@=RcU,HdWtK:5!$BgBc\c!n(#\Y0tJYV6EEe)r]nl/Mo.8;^9*ZDhfBEtO_u"9:LQG,-[<s0K+Qb3rGEQXXI0cT@R+BehPKe'[FS\D`OpW(=#.B@p//X:;EeS;"RRn%b^YkjZ"FIMo,h[jnt5()FGq@a[[)5ojOG^8)NLU>CR,m_[R'5P[iDs2S1=5k)Nr)*T5N9bZ4Lh,f=YOurb9*<2[`f<@5VRerI3t;bTQqMFdZ3n6Z0SnbY2'Q[/p.jgqksAU(+R5n:f,2<XN_!\22O$)[.@sEFE^4*Q"1Fp5Bp\$@BClJ7l.c&;K<k8!Fa8<`E3F[QoZ!11$C\VFU2e#SZr2l`D6R#b3#o2LR\Xn7DDC\5DIQ9o,PFs*jhfm27eA:#+>=G(;LE>-G2c2M9k)g@)I5RFF<E6pHDhTrkk#OuR"D$K?Rtdun;HWZP@7Xl%;bo&9[C\[]JA&R2-VGSBMpS0s+EY%Sns?HuXro<W<:@pQCAclTiNGriPR9A4l-[7K:FMI/O9V:_VEe0^#Wpd8[b5.7q+?T^ms]nKR0RYo8#$qKN)11`:j&@KHj8LCi3J)^rdS``N*gOu]^1h3$DmLIi2fA\j!WY3ImNg?CJpdk!MUY7h;WGPN%j0M+:eS=itS?E$(NFCP9g2+9MCW9:MboA<5=N_'Sf1FP[n&HhYn,i#[o?:`$Ym1"#Q1D$01bDMi;EAKpoiILKJQhFV@T7>d;3NB3?`Gs\5=m\EV-)A&C+=i#fh5?75N(G^dJ)Yro"B;(CUY)XX/R"'\+GA?Ka0C+6Tfg`p:F)T]W"Og9+$n%]?eu)d&DZM+!PP)8f^;%,oeBL8VS%!"A19'"K&5rTMt_b1/p16V%*cQVQQ3dV'a"iFX-,"?8;L-%[BZ#E(!c"JPsZ--0T(m:hoge\#u$K:>NS&9N*kOV3]H"l=qbECA@qM?J3%S;6&DaK@gIZ;Q>*Y5uT]DV%2<oC+2toJ']H\W)V-VJ_`fBWKUu>:%[#Vc]#lTc+kFpUHDSZNLk8kUb:s;?5!nR):X5oSmL&mMA#-dh$_s\;ZbbcQ*>=A-.#65$X4tO!faqtcB*$7+BJe/nm9rm<rsCf05Qb$JW<tA460#,,O^=<nm7t6#7ANX-'<BV"6<),+n#O9j@\&JmfWaRSPUKu"9[^WfHF;t*I/>Vd7bbQ%L1">YX@7R#0<(66f&+Ra?-(^h?aD-Q*<WY"<):kW$K9R5ctT=jLqcdXopfV?J$H'!ZefaG0#q68)=VXjLmf%ruh?7^&J*E-eiS~>endstream
+endobj
+74 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1906
+>>
+stream
+Gb!#]9j?@3&AI`dk-UW6;H8l+J*\a$B[`kql&op;>gujY\$6Bc9M9m6Nb$12]Laf=6Q_nmk\Fce1[g8Z@6j@Dg&JAmi+NJ$:)P_qdjngX#ai>]PNfpN!=:!n+s0A>o0>i_Yt%1VkKO$inGOI3_26+8#X"`4P'R_9+=/CdPg7n_/e/dPJRK2"4G]pb&eCJI[&+F3bfp@C8D8+CK$[&E#c9&0cI@i*3%n]@'dYd067o6KM;R;4?8#7mCUiGSYkgPTWE?(mopDa@A7k#G/5Q:rkuX8OBr#cO9.gP2IFdSJSm_.8;]qTI+&QUOaC-=!c[6?/PbG+:7V.!3_IXR)Cmj@H@-5+ifbaF^)A.[VHTm4O/AQ.siTe_k&rDEb+;+2HDG1X=,ggM*K)!V\mPWatQ)@Z\[5,-jk,jVIJV!W'/L7J#eh[=1DGL2rP_5))Bgf?@8$@pGf<jK$J]WGhJ4<>25->[$ge+,9M40C?Vc#a^$AG>cnDe@M!uCtEJk/(jbE7\FH9:e]&L?d-Q28$@'\l_Mh9&#[O&5J,-Z^[g4iq"GqR0!g"P@le(d93_HH=XG9jq;3c:k1T3"c@I7i6Yj[g=2sL%T4iI4OYu?9jpY`<*bQAWl;`eD'r"o1henAmue`"*_a=,gh^#BV$g0@XS8$G_,!JIL^>Nr@u"H4;d"kaO"iB"q<pP.>gHZ0*:G-iodlU#'S=g"C*[@@?dnQkN2R,%Ysd(#p4A?`lrumWo,k_EkjAYIWf`;``6q6kj1gI</3!G7WVifo7@B98gi=^rXDdrN9r".+?"f"7A[?DrEjMYR?)ftRo=RZ$?r>)6DZ_I.W^QjGSeR@#5UL!9_`jCq';=Z0m.*O+n0O5IAWpciUGPCdt.!t@>j;U!F@U!dJeN<SR`R3F%B"TLm.`JY10OV`-@2,Zl)YQ"WXLVH0P,KbL:hEe2fDa?T3>Lfa]]iSXQusBjERT^`p-%.U$K]:QtOnn9Hd;$e)R40Ku+ZE?/$*/72X4piNr3%R8_^U)Bt3R*4IK+FR38M`Ai@n3'o\_t%!?([(D3_[r0n@rp<5B>Y,R$OBsl13ii0,E90opE,eu[cd/GLZ.Y_i?]0Z6Z\(!I)/kmJtD[C0j?;5Gj"6e#PX.uR=fX+C-1#@Wr6FU#Gk0=X7#J,XKRd<M%tRPX[2<3$W<7SE)Yh!<>H*2qS'%PI_WP@1\?cQ(E`Xr`k^r1^>ArC6-9,AL%/6ka+C@CP(hIH<Bj@[,97Trm+]G)o%7IDfIgjZVa8L'iA8^p%KVo(^C%@AGAr28=nPdG:2^JF.Oaji6)J&fq-j>Op*WB=TNQ/MS&g'1?.0aS*X?-ZDq0<XT7`[nGs5T&b`l3!mj7n4Ml$CRirKI$O4hWFeO>OSOJBq\6Kh5U!>.'qIi0*j2*Gf,;0W%^I:NVdp*NoQ=1'$M=B;"&ik31Tf:B<M@;E!GnmL2%q<@t_,WdSPq3CYCBg!f<Au+0tQZ&\M%aqa"/If9T6$jelfYOB849b,0Y3U&gPVk_2CV$[\7X0o2f5'*C]-[fP(JqfBm5f$q-u,=qG"pRof-mNQE:#o6TUiMk=*N@.XJS@n5&:%r8L`4bC&=r&*am!3->gMq8F!5&+l0-+O`!nd4\\jVcOQ(4pC36Bg[n0*>sl+i>2u]?\AmjfMRo*oM6ti<&TOr-1F@6=kn*+'gCRLD^KL05+!')34hdYEn([0L`W\++g'.FiO_4_!UI;7+Z1bH4rC7BG_Nl%\mPN^u,&'Zu^=9!Y#hdSplI;kk30.?mMrt9!k>_Q?o3r:j$QEt.W9X\=O)iA454@(8iMQIW87p!K:ahO("q@!GY,g&OTbaZH-u2;eQl7j`'X-80"Y90YGIQ7DjSU-A>Nln$'MKYc@MS&;f:6KbR+Y)uUi;k@WpGLU3;=#IP2Ts~>endstream
+endobj
+75 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2585
+>>
+stream
+Gatm=>BcRH(4OT5fM=;p=WS"bLeHX\2X/AcdnZ?VAmY&&J7?t/+p+2k^]&$U9X"u2gNn"]+LItnqm8"+"UG')q]"\uYF"bA"U3%VGn8CL*\@<rkKC2e1D3.eNI2kBcN90f'1Ye'fC-ujLW?_&4@V;ZMno!Wa;m3k*&qRVi-b#GK:B3-944-?4V-P[3t`>OJU*]>#C9qscq`#\$hK/fH!UWs*+nY..3MJ&`/UqhZ-o@adMh!U"`H0D,SG!_+)KdMYt/F)Xo0U#!K$1`M,jNo/3guAG9bXg2.rFU[`eO4f(J5V/HkRZZB&\)?KA=(3=$LB",EVMNC<s;LVA[m#)qSSKXmUA]D=SH)E*(O0F4dZW%ln?!EY3FjZ0t\>i*9Xql@K8Q\uA6IX?Nr^[M04>\j^&/ri__ipbOSK^ga,pnU@t\gNNI&VjQiYu[I2iLuB12OVo^0Qu7q@qpN__:XuMoXbd2-/:Z'e0dQ*RmKMJCCI[^*fJa^+]Blp[EKe."Ca[X,/GZ'>K]pq.?Xi/k:-Nl'#(=>(+g#Mr</C#m\GR_XXZ2`;JKI&a<t,t404^e(Ko9_+pnI<Z3l(:>W3#9m&XsC&Jh#OYqKdA;$&uQH\19PjPj%lG__`31_I2DU'-e9W7rC+KK0=ZAX*X&X%\GZ3C14hfjXE!$k:UjFOS;[E*X"f#$uttY0Z#:e/U1qiVn&VfDOsUGY#\g1;>%Y;2C?e!Ju1;I.6Ah%bn(+UYY>9Z0grQ;)61,f:(+l5KDK;oqAQRs5:L;UXcp4HcuD)A,X22[<m_`i&5pl9Km/k)K:94%"<Hu"Wk9jEdL7X_B\^!O)G!+d@riddqnrDpl,/*QOD!S@'Q"o8OB;8&I6WLV]Pute.ec2M[8<]9Ms;ZM2)6$\4]Vmiqfde^(pBbP@dBiXPbh8f2/Y^T3ABM%srUFs,fg@D*m-?*.DkZnYbC__>58S:<2bZm0MNI!Z(gl5_/t8SPlN4fN^;U$TPsrm@Oe7=Mf=.pYqu9Kgj*-(Jh&]f.t`'rd5P/"6k:N-2]Gh:<+qK![Xc)G10jGa@e)s*a0ik$4E%6:r,p2$'u;iA3U0Q+c_&Si*WI!q%XZ8KFiSVAGCqBE?\HBS0%cj'/A63KfTo)rkcEG0/bk_D03@P-@[Wqm+D*JY]:1bS?:,_OE*TB[?[kN#*X5CRC%[o@+(&oPIA1C9\OJJ8HYkZOQ"q)#(.;"XksRR58Y#@N]4,HoA+aXrGf,VFKfLmJNm</o$Hb1*l`!q[br6L!7NX<[\/4u;tI"NNEN%+.PGS]g2j3XatTU33F"5obsAFA;9N\an)%@N2DQJmPs1PCp;^`91M@gFfHo<G/W7&Hd8FM*Hmi)nR1nIL2cBl4=-0INApro#1O/7WHUVNL2AOTq/klfj9&kr5fqfu\B+N"Q#gGY`05u;SNq6?f.Sn#6[&,j?VP-#E<T1Yf>T*dpDY)YTi"W:#,Oe!I_>[-l[&Z9j,>>k+9hQpWSRuZ")nTSRU.fhDYW.iq[HY$!fXO&eqXY8&<#A\+A4<\GSoK*i/M?!+CLe$,S&;qfn4bbY*gP$64hlRsZSW`%GcsOgOnLSUDp=Qe*^hW,Jm[G&2+8_S<#*ph@Vht!6SZW)eptrn=4e50Y8B&Oo3t4uT=*CkU/K$^`PE\B*H)QASfdV.3t>ZG[KG/:%QK6OBu-LZ0"+HSg1LB5S6`TlQP^HZ;e#o>XB)1*I'mm/"V]J)"G//^:*_?(NM).gCT8uom.oRl/Cm:NjLH.tNM==.9D/Nl^nRdZ>*Wf<"Lj7gBd'eSakf%F';4(Yh4B9neuB0A$?]*bR;+TLf,6Ws+g]nfg1K`X*.o:.[?eA^;5^Z[-5(P?lD'HhC$0N7-[=9,mbdKfCUql&`*`7ES:&.k@ki'ij:32?%_sZ+!OPC[NO],%:U;,OZ*Df`0UQ:od?3"$.A:XhT-4#h<S-IA*Y)G5TNs;+3Lf=E*.@!e#;pjeGVX5A7hWOUV7DaOjN4FDC4V,YBS6*!2`1H85E'_98@S'Z;G>:?CjWA+r9jF(,iMpr4CHQS;Qp20KJY?I`\:f!pH[)P`U1=D#DlO%'Gs0J]of\$9^8N:`M8-%'r!ocD+(T/7d8L=)\n*$5;o7!(`>86Lb2)f6o)WnKqJ_rQ-9ESd40&<WO95Lfm5I`GGXWDNA?g&'W\R\*Z4]/1sBo@U@o84Q0U6bJ7N2canj=PbYZoZ/gOQ[oE;'?,Sm8OCZBRjD91(FW'kqZbUma]7(L)M)b@?TQLd#/rIOVt%lqYfjl?*c%_"8#p*%"gkCF(9S5uB-5)<u*Ifs:[O/7mEKXhEUEX/`_GM#[uHW]"P?0c4*8VEK1,23PWO^TdtL$f:0-?B2//$79#WhDA8@l0]=2!G[@!uFUO?*;oJpl,1Y[Hn>NXE9qMWf;=LG0Q<LPLOH3>n:U<1u,.23doj5P6CUDjjt2&GF8bRr^qaH`8j]kQ=01TX3\1'aU=Tt&,L2q9[39S<Xlu_n\s&cMlY$`D%GJ?Nei/WX^8%0`ST>GOKfVA4dbGEJ]P+h_.X.]a)o%8$c^:L]uLI:_)gblK+%A=s02/>\1M4]h/EL0rs/,;e'S~>endstream
+endobj
+76 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3167
+>>
+stream
+Gb!;f968iI'#+6EoP)K)AMXJacHRTg):'S5-W]B*$Ud;o'9^`3iGA5>D`:4LPU4J8XK(qob)o)Bh$s#BlNS2nplF\>_\D%<0tb,0^c79c^hgoCnOL),TD`hCpjpNg(C]3_T'bG`r\Aoso&7f3i5\t)2E)V'(4bKb^11=IUu45fn/SA#/:kjJL5SPqr0E+Hf+\Z%5<Se<%ib("]tbOX>;"\hbeUXh(oM?P8Lt$5Wdq=r$iHCTU9*>e^I8K!M5VU)'CL1ImoQ3=AGWW]-L)[BW5jinV8'h@)iT7mWHtWdmMLmIBDjNhCc7>1!H.A6^MqA"Oo7a[cf^&ER1-QnG1:S<hmIEo*d<^5_(CEIcdura7;Ui:Eq$J7(i@n#ebJFin+UT+\$L0ZT;>J)WPKV4kP3/T,MQU?Y?3Q^,MqpC167WQJ5GC)J>L<j-n&U09:=,cA.NBj[jTGs.LhH+15f7sFTdFf]F@>Ba+/?'0sh;:a*k6iA/$Fsa>F8h64qNITNjLWe:<T8S`UP/!P(UfGRmtI>$45l]LkWaXCZYe:Eki'lIEd:9*#pS*S`!,beftg:eWE>Rt.4G`ZAp(*5f.N6YkO>_/^R6D'nUK;+B=$#3[aai1m]i*%i--`"gRH7De\82:""(ZRk#'Ror5=UDn5-!gc"e5OH8Im;%XuI/Ah;jLN=_`8C[1[LWIX>AFXn0<R*=8!.GuN<6jgSiO=D7krrid)+BO"Q%K\GLLd7I<Igl,&V/UWnge_E`:!ehM1PYQD'!h(>"^Uo1-M%!?MF.)$G)P5(D5PlKFssjZEIHjR:3/EA8;`AJU+n%!&X9<2&LF@l`AF:^n&Xm6S4h)j_NQ6%b]_RZjd4h%XE8M6)qglrqGPPB9/fVp:aKcJ[>E/=<CV8-YKI`@:rCc_[.Na)*'[Za!Na7!<q@K=PZVL[?'M*PH_;XD`(8Z:O*h.f;3@>T'LKN6$^sSlG8+o9DT(AM0i(=^]OAYY7G3^Bo9\jLL4(;&-C]lK:t<+@d>CU5W',UUYrjk+X+KZ%MQe]RtuE@3S<4V"0ksJU?6sF(k:50T0V/3)[.2?Y'P48=Uib.V"_a8*]C-o!9b)-OGjc+%Pg^Ln@VB^9>!,?ug><,s6X;PN57bJ#oMVrb<gsFd2*0l1',uC%QB:Mli+K78G*8ATSoghl8YmibT)hic5&GiiEl8I^j_b"E<6[b[h?/\D%,$V2=[3^dibO5s[S.Hbc_Q=:P_F3(-H?dUaUq@DGFr@@K/Kr>HQd%h"Y\@]-CS-9Eo%Fb4PC]*oL;8.hQIIulYo)N6\YIUn21[NM6R7iZJ16in`-$fcp\EkMF#5j3L_*_,iAD/CsK+lFK\_R`2`$C840APjkU+3QX/(TlQ"g@T?MJ@k-:SbC##;rnK_)`*X)LC%-Z&SG5><*8e2.\HXELB2O\S.8W5LKhu5nqYB&_nY,1<=%5Jq+$08oPK[e'oGoNql$+j-WC"EQ&+E$;GlG6MAX*kHc1_)-)-5sp#8Og]t/0Ll<+[g#X2,dZooKU.RgX#4.sj`K&Mq4&I$1kc6.6$)n(WqODii&Q@DXhGHm#c^c[u+X?u%U%-1I/V#m_lQ6Hj]7O[/EJ?]gIU9tMpod[r>E(=C<D8S.?#06mT@AKjLOV+&#L_P\+[3k&+Nln4tIOE,7L[rKr_#-Mq7":E<ppi0^f/tkimkB@.;?*Hcmr:oN+^/E]:eSqG=kW6<\aGB@=ES.RJ#Gc\GG>X[ZdTc/>um28L$jMB6Na0uC5eJWS$mp:#id0_pN:qC*?'?Mkl$8,/a?5#SH)KTUdF.aZOd3>)TCMI&.i\1?m2Bq/7f?Ji`QZfTFb$QA?/&X47*&;3A>I_Fro(C/dof0#SbW8Y#V@2R1Gp-p+Qo=D[d8YSYF'`4"b_+ah/cq.8l9R0We/cQmq-tMRiC8@\gB$8("r7b=)<)MQ-^$eC_j/H!CceKfXSK<,i8P6QHo[Zl$.]kX9-T`>CQ?nYcr[.Kl(I\8WHT6'/,m;,mp*NJMeHYg6+!HUjH=8ME!X:Eofk9AI@M9t00_VLr'>bIS*,U+]`%B:[6L^1%MFYZ5*'6?P2W1CO`_^NF1j21kr4<["MLb''jb2+knk\]Zt1':h1Bh1,FnZEcRkDd(h^aq,uFic:+XA_AHtTT6srm)jthJhRqI9Y*_US0!;NNW=fs#"nn)ohon?TgC5pG%7!T(;L4T91i[!M!#Y)q5c29(%'CKn"b3W(,D_XS(n8+3%&NhB[@UZ)VN[RTkedAl@Dci.b,)Bg%;GV_O!LVn(Z-'!k,fiYWBZq]+_:B!Sn1*[*63,F7$6C2RPJXO;OO@p'7.K@"$VZ+4Lg%_t=USDn(8C%dSbkrigju%^YhP=ncNV7bJ`^+1/r^BX0k(+1/r^!4"hj+0:4i\RTPWs'?/GCM_geV`mE5M]9$A0kSs27/PX9k\mb\Kqu.LRaM,uB)FN.12bd*iVC=Z_)R1cB)Iq'-19a8c04J[a*[T'Fn^]"h;[J,O)TLXO*BVm.,7CGlg?$DjX#dqHXZ!-8j_!%V#$e!]^i?bgikenefER0jq^BPbgYGA)+92)0?TLb'K5AS0H9<l62,58B%;^OG*-5L-O;>\nl"_i\@HqC!P&Tb;4V+Y:"p,lJ1nZ])<hq2.FXsJ!q+[HdfitijbkH/>ehF]N[o+D35ipge+#.&502`U.P?hLc$I!<_RYF.DIZNSe6Wg1``i)GlG7nt?nCdO/K-4MST"qdI8+L:!EOJ=Pst(\XB'.BVM1^Ld6/A#q(`[=X0?PCRD9tmF.#9]7A1WjmR'#fl?RImMgSF6O-?VY6HjaX''gRo@DA>[M<k6:Oba->.4"IUd.IQB@/pG3;6!Ndm!^2JJZ#@[UDrmjZ>=h@qre<<Nm!q53atB:i<:7lI<7<?*MT#&r>,,=oo[.X>=k<J[AN3PH`?#!p+5"d@a,#@_[F$eV0u'>D:'+Dhb'O7Z_3YIReBl8:CuBV6*r*e\2-e-O4K&k8AUK\,c!D"#II&#7fq6T"]2\'gsu;em5[PK@/cfs(l#]RK]*2q+<q!/n86WDUG3b,99cf"f*EARD'.;BX-q#_Bb$j_';tA<f'>J@_E;aHqhHs5S8V_'Hrh'R&sY#+k;qA:\;kK3iia]'Q$KTM4djCG/$.<Zf17i[Vb*s^)%)a@BRbK3#gWDWYRN6+~>endstream
+endobj
+77 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3310
+>>
+stream
+Gb"/*8TWoM'>=9EoI8mtAiKq/2*&bs46;^9f^`!i<PH6m/9B$(iSr)Bf7+6K&P-]2/GZ03O\(.!T[A"/GQ:#2-N57Tmkb5.RD>.F!eeGO$&E.p0Y)__ajE=CL?G&EGJN\fl<6(en]LL^p<Ou$L4>6sYc(u?RLdUs4POC1`*h?LE,AfPMr=$%0#a*0G\n=Q<TRmJ4Ljr1%i/\3q#IBWD+gRg@JZ;O_^'us90VMMUcD,l/B>XZj$ah$GS[)/Nd)EIGbC)OS<'O0&Fn'rNE6q9<8B@-C&BJT^;K"jl'5;V9l5O0IaL(bbTaAIiS\I3rJ_t9?1r$"?&ooJ2$o"@7b"gdcXBpOQeIgp6((IGIXOpuZC!:X'Kjno7#(%&qW+j/#A1RBA(P\m^_jaI]tK0tbDm7Zh/J2<L0]MdTXO#\4;-l^H/jY0\3X*+dFo+uVF_pPYRVLaOV]bk+CYV?=nI4Zapf2cE=/,Te*'eB"5LdMP7_$1\(&3%Ubu9?Ij1LPG:h^ii&VQ9'-H2!$$c:UZ^(Q*/)N4SY*i4X)8:m1V-s(Y6p;YDhk\M<#h-ake2QTsbgCG!4diAKQ=b'8OAmg-qQ$Tg6/18M65FK:/5AX6FfNonZtWTCp;A?JWt'E&M60:*1e:]V(pP'uAX'mC%#'WfrneVrf\j$GTnt$;!j_8,K)B#&fONRF_ORV[7hmp3,;,*]L`aTd8i=T%c+D7t;-6i:C=hD=,aEe0V%A<J5Y?V2s79;Hj$B,bo&Io]eT^_<g.m'Wo^BUAj$EKJR),;**)`0%=]*Je]"?d!4UhdMk;;5=Ra=)()e-"eI75OM5R`IPc*19^NA)M2a)-HVM.Fs(RX[$BcY5QZ!=pjn_u7?WS<T($1/[TVcH;*@'iLr>Mu7uTE$8g;Oh&6Ar@/VZZb.j;=Rp&9:AK6W`&JjrF>32YAs\58i-.W2KhRON-m'Zt'Ce+W0FMT,0:97A$h9U]0,L\0U_XF.0(hq\a(Zg':IJX^!Wg@"+u#pPBB2;]!p2h(*q+XS0on$LMj?U.l[A"2G-F*L#-*^LU4ujnfh^,#@@eW!ffTWYdcEG(&U%bWkH2'$^CKI;gUYi+]d6Mr4Y!>.rCP-Kj7e?o$oIP--]G9e\h42Ui,99Kd)=P@p`\XBKGk?DcGN2+=Xp,9:8KE/H%oV//p++\<Bu*LS&g2Q7$d@F,_beD(-)Gh_!I@Fia;KX^/j2r9&Wfc,$p5MnkohK7"nIL@<Rf.btp3!Oce'9g-'T7gdJuPh865TL(YBX/Ton)<74(EWNN:k`$,psUd+68j3QV`6lH9L@(+$TMDQ:.D@C^<]'#D=\*')&30gk*ZLr6[4!%[U^"t:dD:d1+fLb=fT>gFK$M.^lYrJnT`-,2dLH(T.;n$1o9(a&cOjQJM\L'AiW'H)sAtcuN&i<hk\F)qG%sSTXqsC"DNCkbZg&=S*)np%@9?Z*W[5*eCQ/8P"W1f>gKcj=%h9"mK'^'e@Ybe"H\4kJp=tJLG8Z##6StrIoTWVXKo!pn&<(kJE#E(omCF:q_=tpVT7-(aD<#6H+ECo>b2Xr@FFf[I4<E]%;J2)[ZNoaZ](t+.UD/?=S\$0JE;MJmYRPJlOm8[6\El$mHZQ>NRUg)Y>EEGUa@"!NK'HHb/%F8en(!_hEQQFL1&5<qc%&iWu7oL3ZKR&<uChFc%g)3>;S^g8"_/g*!;(7[mcem\T8r8&HlihihZP:N6(L`cn"+\t)b)S`nf#*GE_fa(P["cGV1;g$@^.=.ndr6ipgQ&]RAn+$fO'r_<+jNQ&'#6pQj(rle`4FLO&RoPiQ^P4D'F0^/".<ks'(e)$fjKo8VVZc44AUhc%EbXQ'^?du1Ro4HrXq]J&:AV9YTpm'>'*V@I1(/aXSPcbICgOb0LQcW+`MpT0BWkTkGr5*kQ>Qa"BU(5o76<F#cBYI+b]6D7caqGCc@=)C2f]c;0t+?H^4A65tFifW5'Gs2@O&\APgk3(Q$;V2mV/G,P?K/iK\&L[Wj**,doJ5RU=4HOH>A5js#-ZUB/a-<c1Fk8KZM,&&j-hf,p)5%!bf=L$jrUC_n&A?TUn`K"S9r*i2*=ACf,]Bi9b'SqX^[)9+m:Ba-AU(MU<i;0[Z%DP]Oclqfnt+Lh)"I=-Hc2n?Vo>i2\gS4?k9rTleZ"(=tf9DZ4Q_K?,RhgFU=c8ZiUWmgQc=/EJ/f>PL=1%.B(6SX:iY2tkl9C]nRjl+U0G/7.F^e!_/!QaR&rh4BUK&R?b4E/hI>bQVP4kn`C&8eu_Fe!<fiT+-6_9Z2q#[[bjID$K89uMP(\).;GeZH^/_@%+:im#pQ?5qjW@`e/aIF4?6?T`/<8D'Qjk2i@A`#5e,e+8(@'kj[9\=,,5DDPlao^Jkj.(W4p]<8OpnoC.,DU2V]TSRtqi'\b1.(6^YJ$@QlrU(;rH!tp4eL"Op')!<;mVTq]_@sN[mFhQo\jY3daZXlh#:A5:Bou0>!D=]Og3i,ZLoT;V`&oa+5bt)/p)W;`9n(d\rR/+g[N&Gb_^Kcka]&Bs8a#&S^i7u-c3Mf:8q$`D&3LqKQAqhVpZ:`BC^t2)J(o/VpMokkM-Bnl3Nq"^n`1@RL`f?g09DLh9k9(!c%,+[Bh,sak_nJ>Gkn"BDWg]&S'g'J24U4EN@q4r,h:?<]SqO!N\/hus+'uT\@6%U\FuLP(uM1kc_*Z?o*WF44B-5NVEC?i%CInn>^fG5#p'SLc(,i%9:Mto)8l45[[SVO9s8EfTH1X-lfHlEhdhR2a4kXj^6.e_gC&/!-ET.7?F=QB2epcE,N;^MIWV>3D6`oGh?M]e!*lG07d^m6[r6ppWd!L7;3TQL1#JpVcGHMOCQ4blVRfWgeef#!X\kS=)S(=)[]^W-Bs!Nb=,XJt;3TQLTp'6Q9fHh8=sJ,eXe0\nDqA^j%W5WKJucSDm4RfRXkh+df5hjY5Bi=B(nm"U*7^#%Zk`gob>fH9HX'"*(m1s5okM4'(iM'.)/5p^[[ku`e$\=EUik(m870/T;-(.6@FJ8iUH2n+d;uZhf>Fr!m5WgslaUc[\rJDk[=6YlV)u8/o/s9_H+%=736D<;2F'HKOOYWRX^SpYI(%/u9(i)eI<^Z7;\&a8AZJU[I7;e<Q6DRs$'+a+%O>HqLq3FA"6K;***2@._NJUN<FZDl;,TMh;Ni%Rk3AG`-rg@Fng(Lp:u?ufU(Hj)VM6L6;Q"fVhZ&7q.;:INe^lsOM3_RT#5jPUK+aT#QuVpn=<=1oa%(0<rB0(rps(Yt^32^N'C''IRs`N"5@p4_08a<nBboa2nkjk[,0*8sp[)&#rD-/Gkl4.@:Gi~>endstream
+endobj
+xref
+0 78
+0000000000 65535 f 
+0000000061 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000529 00000 n 
+0000000752 00000 n 
+0000000949 00000 n 
+0000001168 00000 n 
+0000001387 00000 n 
+0000001602 00000 n 
+0000001821 00000 n 
+0000001937 00000 n 
+0000002186 00000 n 
+0000002384 00000 n 
+0000002587 00000 n 
+0000002804 00000 n 
+0000003011 00000 n 
+0000003220 00000 n 
+0000003446 00000 n 
+0000003672 00000 n 
+0000003898 00000 n 
+0000004111 00000 n 
+0000004322 00000 n 
+0000004538 00000 n 
+0000004769 00000 n 
+0000005000 00000 n 
+0000005220 00000 n 
+0000005439 00000 n 
+0000005663 00000 n 
+0000005887 00000 n 
+0000006098 00000 n 
+0000006314 00000 n 
+0000006526 00000 n 
+0000006743 00000 n 
+0000006969 00000 n 
+0000007176 00000 n 
+0000007388 00000 n 
+0000007780 00000 n 
+0000007999 00000 n 
+0000008210 00000 n 
+0000008426 00000 n 
+0000008640 00000 n 
+0000008864 00000 n 
+0000009117 00000 n 
+0000009333 00000 n 
+0000009547 00000 n 
+0000009771 00000 n 
+0000010010 00000 n 
+0000010088 00000 n 
+0000010277 00000 n 
+0000010468 00000 n 
+0000010700 00000 n 
+0000010896 00000 n 
+0000011116 00000 n 
+0000011333 00000 n 
+0000011549 00000 n 
+0000011766 00000 n 
+0000011977 00000 n 
+0000012208 00000 n 
+0000012411 00000 n 
+0000012620 00000 n 
+0000012831 00000 n 
+0000013044 00000 n 
+0000013251 00000 n 
+0000013477 00000 n 
+0000013703 00000 n 
+0000013919 00000 n 
+0000014245 00000 n 
+0000014315 00000 n 
+0000014704 00000 n 
+0000014806 00000 n 
+0000016103 00000 n 
+0000018885 00000 n 
+0000023168 00000 n 
+0000025166 00000 n 
+0000027843 00000 n 
+0000031102 00000 n 
+trailer
+<<
+/ID 
+[<c6c7c789a10fcebe8ba15da5becb7ca7><c6c7c789a10fcebe8ba15da5becb7ca7>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 69 0 R
+/Root 68 0 R
+/Size 78
+>>
+startxref
+34504
+%%EOF
